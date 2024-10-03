@@ -1,2 +1,2 @@
 # shuddhi
-Research for remote patient monitoring on respiratory diseases.
+The dataset for this project is hosted and taken from [Kaggle](https://www.kaggle.com/datasets/nraobommela/health-monitoring-system)
